@@ -1,1 +1,1 @@
-export const clientDefaultPath = '../../Possumus Client/dist'
+export const clientDefaultPath = process.env.REACT_APP_PATH
