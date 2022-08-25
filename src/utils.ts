@@ -1,1 +1,1 @@
-export const clientDefaultPath = process.env.REACT_APP_PATH
+export const clientDefaultPath = '../client-build'
